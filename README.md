@@ -14,3 +14,8 @@
 - Click the button **_load unpacked extension_**.
 - In the window that pops up, **select the folder that contains this minimal extension**, then **click _ok_**.
 - **Done!** A new extension called _Chrome Addon v3 Starter_ should have appeared in the list.
+
+
+![image](https://user-images.githubusercontent.com/26943671/213894584-98bec824-0db9-4144-a80f-a4e0e2bfc53a.png)
+
+Plays DK rap at a randomly assigned length in popup window when ctrl-F is pressed  
