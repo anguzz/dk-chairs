@@ -18,4 +18,4 @@
 
 ![image](https://user-images.githubusercontent.com/26943671/213894584-98bec824-0db9-4144-a80f-a4e0e2bfc53a.png)
 
-Plays DK rap at a randomly assigned length in popup window when ctrl-F is pressed  
+Plays DK rap at a randomly assigned length in popup window when ctrl-shift-F is pressed  
